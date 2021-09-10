@@ -1,0 +1,15 @@
+{
+  "name": "sveltekit-unique-class-repetition",
+	"description": "Parent element's unique class repeating on all the child elements.",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "svelte-kit dev",
+    "build": "svelte-kit build",
+    "preview": "svelte-kit preview"
+  },
+  "devDependencies": {
+    "@sveltejs/kit": "next",
+    "svelte": "^3.34.0"
+  }
+}
